@@ -2,6 +2,7 @@
 
 Esta es una aplicación realizada para una prueba tecnica. Implementando la interfaz grafica de una Fitness App
 
-## Getting Started
+## Para comenzar
 
+`flutter pub get` para instalar todas las dependencias que requiere el proyecto
 
